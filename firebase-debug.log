@@ -1,0 +1,32 @@
+[debug] [2018-03-02T04:38:07.250Z] ----------------------------------------------------------------------
+[debug] [2018-03-02T04:38:07.252Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\user\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] [2018-03-02T04:38:07.253Z] CLI Version:   3.17.4
+[debug] [2018-03-02T04:38:07.253Z] Platform:      win32
+[debug] [2018-03-02T04:38:07.253Z] Node Version:  v8.3.0
+[debug] [2018-03-02T04:38:07.253Z] Time:          Fri Mar 02 2018 10:08:07 GMT+0530 (India Standard Time)
+[debug] [2018-03-02T04:38:07.253Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-03-02T04:38:07.267Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-03-02T04:38:07.268Z] > authorizing via signed-in user
+[debug] [2018-03-02T04:38:07.271Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/onehack-60e8a  
+  
+ Fri Mar 02 2018 10:08:07 GMT+0530 (India Standard Time)
+[debug] [2018-03-02T04:38:15.023Z] <<< HTTP RESPONSE 200
+[debug] [2018-03-02T04:38:15.025Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/onehack-60e8a/tokens  
+  
+ Fri Mar 02 2018 10:08:15 GMT+0530 (India Standard Time)
+[debug] [2018-03-02T04:38:16.441Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'C:\Users\user\Desktop\onehack\friendlychat-web\web-start'...
+[info] 
+[debug] [2018-03-02T04:38:16.451Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/onehack-60e8a  
+  
+ Fri Mar 02 2018 10:08:16 GMT+0530 (India Standard Time)
+[debug] [2018-03-02T04:38:18.812Z] <<< HTTP RESPONSE 200
+[debug] [2018-03-02T04:38:18.812Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/393607993071/clients/_:getWebAppConfig  
+  
+ Fri Mar 02 2018 10:08:18 GMT+0530 (India Standard Time)
+[debug] [2018-03-02T04:38:20.433Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] +  hosting: Local server: http://localhost:5000
+
